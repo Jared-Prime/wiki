@@ -1,10 +1,8 @@
 <!-- TITLE: My Wiki -->
 <!-- SUBTITLE: A Personal Wiki -->
 
-# My Wiki
+# Welcome
 
-## Welcome
-
-## Contents
+# Contents
 
 * [Learning](/learning)
