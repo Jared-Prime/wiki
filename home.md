@@ -3,4 +3,8 @@
 
 # My Wiki
 
-[Learning](/learning)
+## Welcome
+
+## Contents
+
+* [Learning](/learning)
