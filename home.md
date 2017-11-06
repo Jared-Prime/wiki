@@ -10,3 +10,6 @@ I began working with [ZeroMQ](https://zeromq.org) recently (late October 2017). 
 # Contents
 
 * [Learning](/home/learning)
+* [Projects]
+* * [Active](/home/projects:active)
+* * [Archived](/home/projects:archive)
